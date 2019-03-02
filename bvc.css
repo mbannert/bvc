@@ -1,0 +1,44 @@
+body{
+    background-color: #77a6f7;    
+    color: #fff;
+    
+}
+
+
+h2{
+    color:#fff;
+    font-weight: bold;
+}
+
+.bg-dark{
+    /*
+    https://visme.co/blog/website-color-schemes/ 42  oder 28
+     */
+    background-color: #fff !important;
+    
+}
+
+a.navbar-brand{
+    color: #77a6f7 !important;
+}
+.navbar-dark .navbar-nav .active>.nav-link,
+ .navbar-dark .navbar-nav .nav-link.active,
+  .navbar-dark .navbar-nav .nav-link.show,
+   .navbar-dark .navbar-nav .show>.nav-link {
+    color: #00887a;
+   }
+    
+   .navbar-dark .navbar-nav .nav-link{
+       color:#FFCCBC;
+   }
+
+a:hover {
+       color:#00887a !important;
+   }
+
+
+
+
+#mapid{
+    min-height: 300px;
+}
