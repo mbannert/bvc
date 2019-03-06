@@ -36,7 +36,9 @@ a:hover {
        color:#00887a !important;
    }
 
-
+a{
+    cursor: pointer;
+}
 
 
 #mapid{
